@@ -1,4 +1,4 @@
-# Basic Automation Project
+# Amazon Automation Project
 ## Automation Testing Concepts
 
 *Automation to cover basic test functionalities and core concepts.*
